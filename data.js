@@ -106,8 +106,8 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
-      duration: "2022 – 2024",
+      institution: "Fergusson Junior College, Pune",
+      duration: "2023 – 2025",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
