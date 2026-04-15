@@ -112,9 +112,9 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
-      duration: "2022",
-      description: "Scored 92% with distinction.",
+      institution: "St.Anne's High School, Pune",
+      duration: "2023",
+      description: "Scored 94.8% with distinction.",
     },
   ],
 
